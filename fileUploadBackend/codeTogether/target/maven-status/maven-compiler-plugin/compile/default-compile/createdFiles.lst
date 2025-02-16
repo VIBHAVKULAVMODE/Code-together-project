@@ -1,0 +1,11 @@
+com\codeTogether\CodeTogetherApplication.class
+com\codeTogether\entity\FileData$FileDataBuilder.class
+com\codeTogether\util\FileUtils.class
+com\codeTogether\repository\StorageRepository.class
+com\codeTogether\service\TaskService.class
+com\codeTogether\controller\FileController.class
+com\codeTogether\service\StorageService.class
+com\codeTogether\util\TaskController.class
+com\codeTogether\repository\TaskRepository.class
+com\codeTogether\entity\Task.class
+com\codeTogether\entity\FileData.class

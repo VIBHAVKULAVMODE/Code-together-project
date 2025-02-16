@@ -1,0 +1,10 @@
+D:\Adv java\fileUploadBackend\codeTogether\src\main\java\com\codeTogether\CodeTogetherApplication.java
+D:\Adv java\fileUploadBackend\codeTogether\src\main\java\com\codeTogether\controller\FileController.java
+D:\Adv java\fileUploadBackend\codeTogether\src\main\java\com\codeTogether\entity\FileData.java
+D:\Adv java\fileUploadBackend\codeTogether\src\main\java\com\codeTogether\entity\Task.java
+D:\Adv java\fileUploadBackend\codeTogether\src\main\java\com\codeTogether\repository\StorageRepository.java
+D:\Adv java\fileUploadBackend\codeTogether\src\main\java\com\codeTogether\repository\TaskRepository.java
+D:\Adv java\fileUploadBackend\codeTogether\src\main\java\com\codeTogether\service\StorageService.java
+D:\Adv java\fileUploadBackend\codeTogether\src\main\java\com\codeTogether\service\TaskService.java
+D:\Adv java\fileUploadBackend\codeTogether\src\main\java\com\codeTogether\util\FileUtils.java
+D:\Adv java\fileUploadBackend\codeTogether\src\main\java\com\codeTogether\util\TaskController.java
